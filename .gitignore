@@ -1,0 +1,9 @@
+*.pdf
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# VS Code related files
+.vscode
