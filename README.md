@@ -4,6 +4,9 @@ WhatsApp has quickly emerged as the go-to messaging app for over 2 billion activ
 
 WhatsApp messages can be scheduled with the aid of numerous paid third-party apps and bots to automate their messages; however, we can automate this task by writing few simple lines of code with Python and avoid paid subscription bots and apps.
 
+Please read this medium article for more details: https://surendramettapalli.medium.com/whatsapp-automation-with-python-78bf549d9c67
+
+
 **PyWhatKit:** 
 
 Python offers several inbuilt libraries to ease our work, among them PyWhatKit is a library for sending automated WhatsApp messages and It has few other features too.
